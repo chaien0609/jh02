@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "jh02",
+      "nativeLanguage": "ja"
+    },
+    "jhipsterVersion": "6.9.0",
+    "applicationType": "monolith",
+    "baseName": "jh02",
+    "packageName": "jh02",
+    "packageFolder": "jh02",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTc3NzU1MGMxNmJlMTI3OTEzMGRkNjJhZWNjNWVlOGY1YmUwY2NmNDQ3MzU2MDgwYmRhNjY5MDg1ZWZlNTFjODM5MGU2ODdhMjRlNzM3MDNjN2Y4ZGYwYzc5OTE0NDMwOTQyMDI0MWEzMTU2MjQ3MjU3YTU4YTk4ZjY5MDc2NWY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1590478859867,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "ja",
+    "languages": ["ja", "en"],
+    "blueprints": []
+  }
+}
